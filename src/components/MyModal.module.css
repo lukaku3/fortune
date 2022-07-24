@@ -1,0 +1,10 @@
+.button {
+    width: 100px;
+}
+
+canvas {
+    border-color: silver;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.375rem;
+}
